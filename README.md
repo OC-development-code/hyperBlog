@@ -12,5 +12,6 @@ En este curso vemos de todo:
 * Las personalidades multiples de Freddy.
 * Creado por el increible Omar Cadiz.
 * Incluye ejemplos en Windows, Linux y Mac.
+* Disponible para todas la edades.
 
 Y como un amable recordatorio **Este readme.md es un chiste**. Diseñador para el ejemplo. Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a **ver el curso.**
